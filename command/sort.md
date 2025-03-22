@@ -24,7 +24,7 @@ sort [OPTION]... --files0-from=F
 -f, --ignore-case              将小写字母作为大写字母考虑。
 -g, --general-numeric-sort     根据数字排序。
 -i, --ignore-nonprinting       排除不可打印字符。
--M, --month-sort               按照非月份、一月、十二月的顺序排序。
+-M, --month-sort               按照月份排序(例如：一月、、十二月的顺序排序。)
 -h, --human-numeric-sort       根据存储容量排序(注意使用大写字母，例如：2K 1G)。
 -n, --numeric-sort             根据数字排序。
 -R, --random-sort              随机排序，但分组相同的行。
