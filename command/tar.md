@@ -483,7 +483,7 @@ tar -xvf xxx.tar.gz -C /usr/src/a
 ```
 
 ```shell
-tar -xvf xxx.tar.gz -strip-components=1 -C /usr/src/a
+tar -xvf xxx.tar.gz --strip-components=1 -C /usr/src/a
 /usr/src/a/src/opp/b.txt
 ```
 
